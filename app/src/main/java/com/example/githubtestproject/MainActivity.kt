@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         // developerda değişikler yapıldı
 
+        //dev 2
+
     }
 }
